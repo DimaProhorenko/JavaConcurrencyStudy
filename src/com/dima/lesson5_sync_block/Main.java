@@ -1,4 +1,4 @@
-package lesson5_sync_block;
+package com.dima.lesson5_sync_block;
 
 class Exchanger {
     private Object o;
